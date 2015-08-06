@@ -1,5 +1,4 @@
 # 2k6umqp
-## Build Instruction ##
 1. Install Maven latest version
 2. Install Oracle Java version 1.8.x
 3. Clone the project into any dir - {project_dir}
